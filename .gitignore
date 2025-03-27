@@ -1,0 +1,8 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
